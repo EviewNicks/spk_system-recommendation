@@ -1,0 +1,100 @@
+Column1;brand;name;price;spec_rating;processor;CPU;Ram;ROM;GPU;display_size;OS
+0;HP;Victus 15-fb0157AX Gaming Laptop;49900;730;5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;8GB;512GB;4GB AMD Radeon RX 6500M;156;Windows 11 OS
+1;HP;15s-fq5007TU Laptop;39900;600;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;512GB;Intel UHD Graphics;156;Windows 11 OS
+2;Acer;One 14 Z8-415 Laptop;26990;693;11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;8GB;512GB;Intel Iris Xe Graphics;140;Windows 11 OS
+3;Lenovo;Yoga Slim 6 14IAP8 82WU0095IN Laptop;59729;660;12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Integrated Iris Xe;140;Windows 11 OS
+4;Apple;MacBook Air 2020 MGND3HN Laptop;69990;693;Apple M1;Octa Core (4P + 4E);8GB;256GB;Apple M1 Integrated Graphics;133;Mac OS
+5;Acer;Extensa EX214-53 Laptop;39990;620;12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;8GB;512GB;Intel Iris Xe Graphics;140;Windows 11 OS
+6;Dell;Inspiron 3520 D560896WIN9B Laptop;36790;600;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;512GB;Intel UHD Graphics;156;Windows 11 OS
+7;Acer;Nitro V ANV15-51 2023 Gaming Laptop;76990;630;13th Gen Intel Core i5 13420H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 4050;156;Windows 11 OS
+8;Asus;Vivobook 15 X1502ZA-EJ523WS Laptop;48990;640;12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;8GB;512GB;Intel Iris Xe;156;Windows 11 OS
+9;Samsung;Galaxy Book2 Pro 13 Laptop;74990;680;12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Iris Xe Graphics;133;Windows 11 OS
+10;Lenovo;V15 G3 IAP 82TTA08AIN Laptop;49990;693;12th Gen Intel Core i7 1255U;10 Cores (2P + 8E), 12 Threads;16GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+11;Ultimus;Pro NU14U3INC43BN-CS Laptop;10990;693;Intel Celeron  N4020;Dual Core, 2 Threads;4GB;128GB;Intel Integrated UHD Graphics;141;Windows 11 OS
+12;Asus;TUF Gaming F15 2022 FX507ZC4-HN116W Gaming Laptop;72990;760;12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+13;Primebook;4G Android Laptop;10990;693;MediaTek MTK8788;Octa Core;4GB;64GB;ARM Mali G72;116;Android 11 OS
+15;Lenovo;V15 G4 ?82YU00W7IN Laptop;29990;693;7th Gen AMD Ryzen 3 7320U;Quad Core, 8 Threads;8GB;512GB;AMD Radeon Graphics;156;Windows 11 OS
+16;Asus;TUF Gaming F15 FX506HF-HN024W Gaming Laptop;53649;700;11th Gen Intel Core i5 11400H ;Hexa Core, 12 Threads;8GB;512GB;4GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+17;MSI;Modern 14 C11M-031IN Laptop;33990;693;11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;8GB;512GB;Intel Integrated UHD;140;Windows 11 OS
+18;Infinix;Zerobook 2023 Laptop;79990;710;13th Gen Intel Core i9 13900H;14 Cores (6P + 8E), 20 Threads;32GB;1TB;Intel Integrated Iris Xe;156;Windows 11 OS
+19;HP;Victus 15-fa0666TX Gaming Laptop;68990;650;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+20;Lenovo;IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop;45990;710;11th Gen Intel Core i5 11300H;Quad Core, 8 Threads;8GB;512GB;4GB NVIDIA GeForce GTX 1650;156;Windows 11 OS
+21;Asus;Vivobook 16X 2022 M1603QA-MB502WS Laptop;49900;650;5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;8GB;512GB;AMD Radeon Vega 7;160;Windows 11 OS
+22;Apple;MacBook Air 2022 Laptop;104990;693;Apple M2;Octa Core (4P + 4E);8GB;256GB;8-Core GPU;136;Mac OS
+23;Acer;Aspire 7 A715-76G UN.QMYSI.002 Gaming Laptop;54990;720;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+24;HP;15s-fq2510tu Laptop;49580;640;11th Gen Intel Core i5 1135G7 ;Quad Core, 8 Threads;16GB;512GB;Intel Iris Xe Graphics;156;Windows 11 OS
+25;Asus;Vivobook 16X 2022 M1603QA-MB711WS Laptop;55990;710;5th Gen AMD Ryzen 7  5800H;Octa Core, 16 Threads;16GB;512GB;AMD Radeon Vega 7;160;Windows 11 OS
+26;HP;15s-eq2132AU Laptop;43990;630;5th Gen AMD Ryzen 5 5500U;Hexa Core, 12 Threads;16GB;512GB;AMD Radeon AMD;156;Windows 11 OS
+27;HP;255 G9 840T7PA Laptop;19850;693;3rd Gen AMD Athlon 3050U;Dual Core, 2 Threads;4GB;256GB;AMD Integrated;156;DOS OS
+28;Acer;Extensa 15 EX215-33 2023 Laptop;28990;693;Intel Core i3 N305;Octa Core, 8 Threads;8GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+29;Acer;Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop;54999;710;12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+30;Dell;Inspiron 3530 Laptop;70990;693;13th Gen Intel Core i7 1355U;10 Cores (2P + 8E), 12 Threads;16GB;512GB;Intel UHD Graphics;156;Windows 11 OS
+31;Lenovo;IdeaPad Gaming 3 82SB00V2IN Laptop;56889;600;6th Gen AMD Ryzen 5 6600H;Hexa Core, 12 Threads;8GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+32;Acer;Predator Helios Neo 16 2023 PHN16-71 Gaming Laptop;179880;780;13th Gen Intel Core i9 13900HX;24 Cores (8P + 16E), 32 Threads;16GB;1TB;8GB NVIDIA GeForce RTX 4070;160;Windows 11 OS
+33;HP;Victus 15-fb0150AX Gaming Laptop;53790;710;5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;16GB;512GB;4GB AMD Radeon RX 6500M Graphics;156;Windows 11 OS
+34;Acer;Aspire Lite AL15 Laptop;37990;600;5th Gen AMD Ryzen 5 5500U;Hexa Core, 12 Threads;16GB;512GB;AMD Graphics;156;Windows 11 OS
+35;Acer;Nitro 5 AN515-58 NH.QFSSI.001 Gaming Laptop;96990;770;12th Gen Intel Core i7 12650H;10 Cores (6P + 4E), 16 Threads;16GB;1TB;8GB NVIDIA GeForce RTX 3070 Ti;156;Windows 11 OS
+36;HP;Pavilion 15-eg3081TU Laptop;71990;660;13th Gen Intel Core i5 1340P;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Integrated Integrated;156;Windows 11 OS
+37;HP;Victus 16-d0333TX Gaming Laptop;59990;750;11th Gen Intel Core i5 11400H ;Hexa Core, 12 Threads;16GB;512GB;4GB NVIDIA GeForce GTX 1650;161;Windows 11 OS
+38;Lenovo;IdeaPad Slim 5 14IAH8 83BF0045IN Laptop;62990;600;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;1TB;Intel Graphics;140;Windows 11 OS
+39;Infinix;INBook X3 Slim XL422 2023 Laptop;30990;693;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;512GB;Intel Integrated Iris Xe;140;Windows 11 OS
+40;Lenovo;LOQ 15IRH8 82XV00F5IN 2023 Gaming Laptop;74990;700;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+41;HP;15s-fr2515TU Laptop;36490;600;11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;8GB;512GB;Intel UHD Graphics;156;Windows 11 OS
+42;Dell;G15-5520 2023 Laptop;77990;730;12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;16GB;1TB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+43;Samsung;Galaxy Book2 NP550XED-KA2IN Laptop;54990;620;12th Gen Intel Core i5 1235U ;10 Cores (2P + 8E), 12 Threads;16GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+44;Lenovo;IdeaPad 3 15IAU7 82RK00WXIN Laptop;41190;693;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;256GB;Intel UHD Graphics ;156;Windows 11 OS
+45;Asus;ROG Strix G16 2023 G614JJ-N3086WS Gaming Laptop;89990;700;13th Gen Intel Core i5 13450HX;10 Cores (6P + 4E), 16 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 3050;160;Windows 11 OS
+46;Lenovo;Legion 9i 2023 Laptop;399999;840;13th Gen Intel Core i9 13980HX;24 Cores (8P + 16E), 32 Threads;32GB;1TB;16GB NVIDIA GeForce RTX 4090;160;Windows 11 OS
+47;Wings;Nuvobook V1 Laptop;31990;693;11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;8GB;512GB;Intel Graphics;156;Windows 11 OS
+48;Dell;Inspiron 3525 Laptop;31490;693;5th Gen AMD Ryzen 3 5300U;Quad Core, 8 Threads;8GB;512GB;AMD Radeon Radeon Graphics;156;Windows 11 OS
+49;HP;Victus 15-fa0555TX  Laptop;70590;710;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+50;Asus;TUF Gaming F15 2023 FX507ZV-LP094W Gaming Laptop;104990;780;12th Gen Intel Core i7 12700H;14 Cores (6P + 8E), 20 Threads;16GB;512GB;8GB NVIDIA GeForce RTX 4060;156;Windows 11 OS
+51;Lenovo;V15 82QYA00MIN Laptop;23990;693;Intel Celeron  N4020;Dual Core, 2 Threads;8GB;256GB;Intel Integrated Intel UHD Graphics;156;Windows 11 OS
+52;HP;255 G9 7B1L8PA Laptop;37999;640;5th Gen AMD Ryzen 5 5625U;Hexa Core, 12 Threads;8GB;512GB;AMD Radeon Graphics;156;Windows 11 OS
+53;Honor;MagicBook X14 2023 ?FRI-F56 Laptop;52990;660;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;Intel UHD Graphics;140;Windows 11 OS
+54;Lenovo;V15 82KDA01BIH Laptop;30849;620;5th Gen AMD Ryzen 3 5300U;Quad Core, 8 Threads;8GB;512GB;AMD Radeon Graphics;156;Windows 11 OS
+55;HP;Victus 15-fa0070TX Laptop;58990;700;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;8GB;512GB;4GB NVIDIA GeForce GTX 1650;156;Windows 11 OS
+56;Zebronics;ZEB-NBC 2S Laptop;34990;630;11th Gen Intel Core i5 1155G7;Quad Core, 8 Threads;16GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+57;Lenovo;ThinkBook 15 Gen 5 21JF0026MJ Laptop;49990;690;7th Gen AMD Ryzen 7 7730U;Octa Core, 16 Threads;16GB;512GB;AMD Radeon AMD;160;Windows 11 OS
+58;HP;15S-FQ5202TU Laptop;51780;693;12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;8GB;512GB;Intel Iris Xe Graphics;156;Windows 11 OS
+59;Asus;TUF Gaming F15 FX506HE-HN382W Gaming Laptop;68990;710;11th Gen Intel Core i7 11800H;Octa Core, 16 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050 Ti;156;Windows 11 OS
+60;Asus;TUF Gaming F15 FX577ZC-HN192W Gaming Laptop;85990;760;12th Gen Intel Core i7 12700H ;14 Cores, 20 Threads;16GB;1TB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+61;Lenovo;LOQ 15IRH8 82XV00BQIN 2023 Gaming Laptop;96990;670;13th Gen Intel Core i7 13620H;10 Cores (6P + 4E), 16 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 4050;156;Windows 11 OS
+62;Lenovo;Legion Y9000X 2023 Laptop;148990;800;13th Gen Intel Core i9 13900H;14 Cores (6P + 8E), 20 Threads;32GB;1TB;8GB NVIDIA GeForce RTX 4060;160;Windows 11 OS
+63;Asus;TUF Gaming F17 FX707ZC4-HX067W Gaming Laptop;72990;750;12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;173;Windows 11 OS
+64;Dell;Inspiron 5430 Laptop;84490;660;13th Gen Intel Core i7 1360P;12 Cores (4P + 8E), 16 Threads;16GB;1TB;Intel Iris Xe Graphics;140;Windows 11 OS
+65;Asus;Vivobook 15 X1502ZA-EJ741WS Laptop;60990;670;12th Gen Intel Core i7 12650H;10 Cores (6P + 4E), 16 Threads;16GB;512GB;Intel Iris Xe;156;Windows 11 OS
+66;Infinix;INBook X2 Slim Series XL23 Laptop;33990;693;11th Gen Intel Core i5 1155G7;Quad Core, 8 Threads;16GB;512GB;Intel Integrated Iris Xe;140;Windows 11 OS
+67;Asus;VivoBook 14 X415EA-EK344WS Notebook;35990;640;11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;16GB;512GB;Intel Integrated Intel UHD;140;Windows 11 OS
+68;Acer;Aspire 7 A715-76G NH.QMFSI.004 Gaming Laptop;60990;700;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce GTX 3050;156;Windows 11 OS
+69;Xiaomi;Redmi Book 14 2023 Laptop;43990;693;12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Iris Xe Graphics;140;Windows 11 OS
+70;Asus;Vivobook 16X 2023 K3605ZF-MB541WS Laptop;62990;720;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 2050;160;Windows 11 OS
+71;MSI;GF63 Thin 11UC-1294IN Gaming Laptop;65990;760;11th Gen Intel Core i7 11800H;Octa Core, 16 Threads;16GB;1TB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+72;Infinix;INBook Y1 Plus Neo XL30 Laptop;23990;693;11th Gen Intel Celeron N5100;Quad Core, 4 Threads;8GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+74;Asus;TUF Gaming F15 FX506HC-HN362WS Gaming Laptop;61990;720;11th Gen Intel Core i5 11400H ;Hexa Core, 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+75;Dell;Inspiron 3525 Laptop;36990;620;5th Gen AMD Ryzen 3 5425U;Quad Core, 8 Threads;8GB;512GB;AMD Radeon Radeon Graphics;156;Windows 11 OS
+76;Asus;Vivobook 16X 2022 M1603QA-MB511WS Laptop;50970;650;5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;16GB;512GB;AMD Radeon Vega 7 Graphics;160;Windows 11 OS
+77;Dell;Precision 5550 Laptop;184999;700;10th Gen Intel Core i7 10750H;Hexa Core, 12 Threads;16GB;512GB;4GB NVIDIA ;156;Windows 10 OS
+78;HP;Omen 16-XD0007ax Gaming Laptop;109990;760;7th Gen AMD Ryzen 7 7840HS;Octa Core, 16 Threads;16GB;1TB;6GB NVIDIA GeForce RTX 4050;161;Windows 11 OS
+79;Zebronics;Pro Series Z ZEB-NBC 4S Laptop;42990;690;12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;16GB;512GB;Intel Integrated;156;Windows 11 OS
+80;HP;15s-fq5185TU Laptop;39150;693;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+81;Acer;Swift Go NXKPZSI002 Laptop;92999;640;13th Gen Intel Core i5 13500H;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Integrated Iris Xe;140;Windows 11 OS
+82;HP;Victus 16-s0095AX Gaming Laptop;80990;760;7th Gen AMD Ryzen 7 7840HS;Octa Core, 16 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 3050;161;Windows 11 OS
+83;HP;Victus 15-FB1001AX Gaming Laptop;55850;700;7th Gen AMD Ryzen 5 7535HS;Hexa Core, 12 Threads;8GB;512GB;4GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+84;Acer;Aspire Lite AL15-51 UN.431SI.288 Laptop;38990;640;11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;8GB;512GB;Intel Iris XE Graphics ;156;Windows 11 OS
+85;MSI;Thin GF63 11UCX-1492IN Gaming Laptop;53990;730;11th Gen Intel Core i5 11260H;Hexa Core, 12 Threads;16GB;1TB;GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+86;Infinix;INBook X3 Slim XL422 Laptop;38990;693;12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;16GB;512GB;Intel Integrated Iris Xe;140;Windows 11 OS
+87;HP;Omen 16-xf0060AX Gaming Laptop;139234;800;7th Gen AMD Ryzen 7 7840HS;Octa Core, 16 Threads;16GB;1TB;8GB NVIDIA GeForce RTX 4060;160;Windows 11 OS
+88;MSI;Thin GF63 11UC-1490IN Gaming Laptop;57990;730;11th Gen Intel Core i5 11260H;Hexa Core, 12 Threads;16GB;1TB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+89;Lenovo;LOQ 2023 Gaming Laptop;89999;640;13th Gen Intel Core i5 13420H;Octa Core (4P + 4E), 12 Threads;8GB;512GB;8GB NVIDIA GeForce RTX 4060;156;Windows 11 OS
+90;Acer;One 14 Z8-415 ?2023 Laptop;37990;600;11th Gen Intel Core i5  1135G7;Quad Core, 8 Threads;16GB;512GB;Intel Iris Xe Graphics;140;Windows 11 OS
+91;Asus;VivoBook 14 X415EA-EK326WS Notebook;30990;693;11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;8GB;512GB;Intel Integrated Intel UHD;140;Windows 11 OS
+92;Dell;G15-5530 GN5530D83M6002ORB1 Gaming Laptop;92990;710;13th Gen Intel Core i5 13450HX;10 Cores (6P + 4E), 16 Threads;16GB;512GB;6GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+93;HP;15s-fr5009TU Laptop;42990;693;12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;8GB;512GB;Intel UHD Graphics;156;Windows 11 OS
+94;Asus;TUF Gaming F15 FX506HF-HN025W Gaming Laptop;59089;720;11th Gen Intel Core i5 11400H ;Hexa Core, 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 2050;156;Windows 11 OS
+95;HP;Victus 15-fa0998TX Gaming Laptop;72999;720;12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;16GB;512GB;4GB NVIDIA GeForce RTX 3050;156;Windows 11 OS
+96;HP;Omen 16-n0123AX Gaming Laptop;126742;770;6th Gen AMD Ryzen 7  6800H;Octa Core, 16 Threads;16GB;1TB;8GB NVIDIA GeForce RTX 3070 Ti ;161;Windows 11 OS
+97;Apple;MacBook Air 15 2023 Laptop;126990;693;Apple M2;Octa Core (4P + 4E);8GB;256GB;10-Core GPU;153;Mac OS
+98;Samsung;Galaxy Book2 NP550XED-KA1IN 15 Laptop;49990;693;12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;8GB;512GB;Intel Integrated UHD;156;Windows 11 OS
+99;Dell;Inspiron 5420 Laptop;74390;620;12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;16GB;512GB;Intel Integrated UHD;140;Windows 11 OS
+100;Dell;Inspiron 3520 D560871WIN9B Laptop;52990;693;12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;8GB;512GB;Intel UHD Graphics;156;Windows 11 OS
