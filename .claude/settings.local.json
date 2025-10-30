@@ -1,13 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "mcp__context7__resolve-library-id",
-      "mcp__sequential-thinking__sequentialthinking",
-      "mcp__context7__get-library-docs",
-      "WebFetch(domain:www.scopus.com)",
-      "Bash(dir:*)",
-      "Bash(if not exist \"D:\\2-Project\\system_rekomendasi\\docs\\Overview\" mkdir \"D:\\2-Project\\system_rekomendasi\\docs\\Overview\")"
-    ]
+      "Bash(Stop-Process:*)"
+    ],
+    "deny": [],
+    "ask": []
   },
   "outputStyle": "research-notes"
 }

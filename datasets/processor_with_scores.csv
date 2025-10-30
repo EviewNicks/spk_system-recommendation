@@ -1,0 +1,84 @@
+processor;CPU;Base Score;Generation;Core Performance;Calculation;PassMark_Score;Notes
+5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;4.36;0.90;1.25;4.91;16581;Mid-range gaming processor
+12th Gen Intel Core i3 1215U;Hexa Core (2P + 4E), 8 Threads;2.05;1.00;1.25;2.56;7800;Entry-level 12th Gen
+11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;1.37;0.88;1.00;1.21;5200;Low-power dual core
+12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;2.95;1.00;1.25;3.69;11200;Efficient mid-range mobile
+12th Gen Intel Core i5 1240P;12 Cores (4P + 8E), 16 Threads;2.95;1.00;1.25;3.69;11200;Duplicate entry
+Apple M1;Octa Core (4P + 4E);3.72;1.00;1.15;4.28;14146;Apple silicon baseline
+13th Gen Intel Core i5 13420H;Octa Core (4P + 4E), 12 Threads;2.50;1.12;1.15;3.22;9500;13th Gen i5 mobile
+13th Gen Intel Core i5 13420H;Octa Core (4P + 4E), 12 Threads;2.50;1.12;1.15;3.22;9500;Duplicate entry
+12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;4.68;1.00;1.25;5.85;17800;High-performance mobile i5
+12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;4.68;1.00;1.25;5.85;17800;Duplicate entry
+12th Gen Intel Core i7 1255U;10 Cores (2P + 8E), 12 Threads;4.05;1.00;1.25;5.06;12950;Efficient i7 mobile
+12th Gen Intel Core i7 1255U;10 Cores (2P + 8E), 12 Threads;4.05;1.00;1.25;5.06;12950;Duplicate entry
+Intel Celeron N4020;Dual Core, 2 Threads;0.47;0.85;1.00;0.40;1800;Entry-level laptop CPU
+MediaTek MTK8788;Octa Core;0.79;0.85;1.15;0.77;3000;Mobile ARM processor
+7th Gen AMD Ryzen 3 7320U;Quad Core, 8 Threads;2.05;1.15;1.15;2.71;6200;Entry-level Ryzen 7000
+11th Gen Intel Core i5 11400H;Hexa Core, 12 Threads;4.02;0.88;1.25;4.42;15281;11th Gen gaming i5
+13th Gen Intel Core i9 13900H;14 Cores (6P + 8E), 20 Threads;7.63;1.12;1.30;11.12;29000;High-end 13th Gen
+12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;4.25;1.00;1.15;4.89;16155;12th Gen i5 mobile
+12th Gen Intel Core i5 12450H;Octa Core (4P + 4E), 12 Threads;4.25;1.00;1.15;4.89;16155;Duplicate entry
+11th Gen Intel Core i5 11300H;Quad Core, 8 Threads;3.61;0.88;1.15;3.66;13700;11th Gen quad core
+11th Gen Intel Core i5 11300H;Quad Core, 8 Threads;3.61;0.88;1.15;3.66;13700;Duplicate entry
+Apple M2;Octa Core (4P + 4E);4.12;1.05;1.15;4.98;15651;Apple M2 improved
+11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;2.48;0.88;1.15;2.51;9426;Efficient 11th Gen
+11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;2.48;0.88;1.15;2.51;9426;Duplicate entry
+11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;2.48;0.88;1.15;2.51;9426;Triple duplicate
+5th Gen AMD Ryzen 7 5800H;Octa Core, 16 Threads;5.45;0.90;1.30;6.38;20714;High-end Ryzen 5000
+5th Gen AMD Ryzen 5 5500U;Hexa Core, 12 Threads;3.35;0.90;1.25;3.77;12761;Mid-range mobile Ryzen
+3rd Gen AMD Athlon 3050U;Dual Core, 2 Threads;0.63;0.75;1.00;0.47;2400;Entry-level Athlon
+Intel Core i3 N305;Octa Core, 8 Threads;1.58;0.85;1.15;1.54;6000;Efficient i3-N series
+13th Gen Intel Core i7 1355U;10 Cores (2P + 8E), 12 Threads;4.84;1.12;1.25;6.78;18450;13th Gen efficient i7
+6th Gen AMD Ryzen 5 6600H;Hexa Core, 12 Threads;4.74;1.00;1.25;5.92;18000;Ryzen 6000 gaming
+13th Gen Intel Core i9 13900HX;24 Cores (8P + 16E), 32 Threads;9.21;1.12;1.32;13.60;35000;High-end desktop replacement
+12th Gen Intel Core i7 12650H;10 Cores (6P + 4E), 16 Threads;6.11;1.00;1.30;7.94;24500;Gaming-focused i7
+13th Gen Intel Core i5 1340P;12 Cores (4P + 8E), 16 Threads;3.29;1.12;1.25;4.61;12500;Efficient 13th Gen i5
+12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;3.42;1.00;1.25;4.27;13000;12th Gen efficient i5
+13th Gen Intel Core i5 13450HX;10 Cores (6P + 4E), 16 Threads;5.29;1.12;1.30;7.71;20100;13th Gen gaming i5
+13th Gen Intel Core i9 13980HX;24 Cores (8P + 16E), 32 Threads;10.00;1.12;1.32;14.78;38000;Flagship 13th Gen
+11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;2.48;0.88;1.15;2.51;9426;Duplicate entry
+5th Gen AMD Ryzen 3 5300U;Quad Core, 8 Threads;2.79;0.90;1.15;2.89;10600;Entry-level Ryzen 5000
+12th Gen Intel Core i7 12700H;14 Cores (6P + 8E), 20 Threads;6.32;1.00;1.30;8.22;24000;High-performance i7
+12th Gen Intel Core i7 12700H;14 Cores, 20 Threads;6.32;1.00;1.30;8.22;24000;Duplicate entry
+5th Gen AMD Ryzen 5 5625U;Hexa Core, 12 Threads;3.89;0.90;1.25;4.38;14800;Improved Ryzen 5000
+11th Gen Intel Core i5 1155G7;Quad Core, 8 Threads;2.66;0.88;1.15;2.70;10100;Efficient 11th Gen
+7th Gen AMD Ryzen 7 7730U;Octa Core, 16 Threads;4.26;1.15;1.30;6.37;16200;Ryzen 7000 efficient
+12th Gen Intel Core i5 1235U;10 Cores (2P + 8E), 12 Threads;3.42;1.00;1.25;4.27;13000;Duplicate entry
+11th Gen Intel Core i7 11800H;Octa Core, 16 Threads;5.23;0.88;1.30;5.99;19875;11th Gen high-end
+13th Gen Intel Core i7 13620H;10 Cores (6P + 4E), 16 Threads;5.92;1.12;1.30;8.62;22500;13th Gen gaming i7
+13th Gen Intel Core i7 1360P;12 Cores (4P + 8E), 16 Threads;4.53;1.12;1.25;6.35;17150;13th Gen efficient i7
+11th Gen Intel Celeron N5100;Quad Core, 4 Threads;0.84;0.88;1.15;0.85;3200;Entry-level quad core
+5th Gen AMD Ryzen 3 5425U;Quad Core, 8 Threads;2.89;0.90;1.15;2.99;11000;Improved Ryzen 5000
+10th Gen Intel Core i7 10750H;Hexa Core, 12 Threads;3.04;0.75;1.25;2.85;11569;Older high-end i7
+7th Gen AMD Ryzen 7 7840HS;Octa Core, 16 Threads;5.79;1.15;1.30;8.66;22000;Ryzen 7000 high-performance
+13th Gen Intel Core i5 13500H;12 Cores (4P + 8E), 16 Threads;4.87;1.12;1.25;6.82;18500;13th Gen mainstream i5
+7th Gen AMD Ryzen 5 7535HS;Hexa Core, 12 Threads;4.34;1.15;1.25;6.24;16500;Ryzen 7000 gaming
+11th Gen Intel Core i5 11260H;Hexa Core, 12 Threads;3.87;0.88;1.25;4.25;14700;11th Gen mainstream i5
+11th Gen Intel Core i5 1135G7;Quad Core, 8 Threads;2.48;0.88;1.15;2.51;9426;Multiple duplicate
+6th Gen AMD Ryzen 7 6800H;Octa Core, 16 Threads;4.74;1.00;1.30;6.16;18000;Ryzen 6000 high-end
+AMD Athlon Pro 3045B;Dual Core, 2 Threads;0.53;0.85;1.00;0.45;2000;Business entry-level
+5th Gen AMD Ryzen 5 5500U;Hexa Core, 12 Threads;3.35;0.90;1.25;3.77;12761;Duplicate entry
+11th Gen Intel Core i5 11300H;Quad Core, 8 Threads;3.61;0.88;1.15;3.66;13700;Duplicate entry
+Intel Atom Quad Core Z3735F;Quad Core;0.32;0.75;1.15;0.27;1200;Very low-power tablet CPU
+12th Gen Intel Core i3 1220P;10 Cores (2P + 8E), 12 Threads;2.13;1.00;1.25;2.66;8100;Efficient 12th Gen i3
+6th Gen AMD Ryzen 7 6800H;Octa Core, 16 Threads;4.74;1.00;1.30;6.16;18000;Duplicate entry
+5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;4.36;0.90;1.25;4.91;16581;Duplicate entry
+10th Gen Intel Core i3 1005G1;Dual Core, 4 Threads;1.58;0.75;1.00;1.18;6000;Older entry-level i3
+5th Gen AMD Ryzen 7 5700U;Octa Core, 16 Threads;4.08;0.90;1.30;4.77;15527;Efficient Ryzen 5000
+11th Gen Intel Core i7 1165G7;Quad Core, 8 Threads;3.11;0.88;1.15;3.15;11800;Efficient 11th Gen i7
+11th Gen Intel Core i3 1115G4;Dual Core, 4 Threads;1.37;0.88;1.00;1.21;5200;Duplicate entry
+13th Gen Intel Core i3 1315U;Hexa Core (2P + 4E), 8 Threads;2.24;1.12;1.25;3.13;8500;13th Gen efficient i3
+13th Gen Intel Core i5 1335U;10 Cores (2P + 8E), 12 Threads;3.82;1.12;1.25;5.35;14500;13th Gen efficient i5
+5th Gen AMD Ryzen 5 5600H;Hexa Core, 12 Threads;4.36;0.90;1.25;4.91;16581;Duplicate entry
+Intel Celeron N4500;Dual Core, 2 Threads;0.55;0.85;1.00;0.47;2100;Improved Celeron
+AMD Athlon 7120U;Dual Core, 2 Threads;0.50;0.85;1.00;0.42;1900;Entry-level Athlon
+7th Gen AMD Ryzen 7 7735U;Octa Core, 16 Threads;4.34;1.15;1.30;6.49;16500;Improved Ryzen 7000
+13th Gen Intel Core i3 1305U;5 Cores (1P + 4E), 6 Threads;1.89;1.12;1.15;2.44;7200;Low-power 13th Gen i3
+11th Gen Intel Core i5 11320H;Quad Core, 8 Threads;3.34;0.88;1.15;3.38;12700;11th Gen high-end i5
+5th Gen AMD Ryzen 5 5600HS;Hexa Core, 12 Threads;4.26;0.90;1.25;4.79;16150;High-performance Ryzen 5000
+12th Gen Intel Core i5 12500H;12 Cores (4P + 8E), 16 Threads;4.68;1.00;1.25;5.85;17800;Duplicate entry
+5th Gen AMD Ryzen 7 5800H;Octa Core, 16 Threads;5.45;0.90;1.30;6.38;20714;Duplicate entry
+7th Gen AMD Ryzen 7 7735HS;Octa Core, 16 Threads;5.79;1.15;1.30;8.66;22000;High-performance Ryzen 7000
+13th Gen Intel Core i7 13700HX;16 Cores (8P + 8E), 24 Threads;7.37;1.12;1.30;10.75;28000;High-end 13th Gen
+7th Gen AMD Ryzen 9 7945HX;16 Cores, 32 Threads;8.42;1.15;1.32;12.79;32000;Flagship Ryzen 7000
+7th Gen AMD Ryzen 5 7530U;Hexa Core, 12 Threads;4.11;1.15;1.25;5.91;15600;Ryzen 7000 efficient

@@ -1,0 +1,119 @@
+GPU_Model;Base_Tier_Score;Generation_Multiplier;VRAM_Factor;Final_Score;Benchmark_Reference;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 4090;10.0;1.25;1.20;15.00;21513 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 4070;8.5;1.25;1.10;11.69;18161 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 4060;7.0;1.25;1.10;9.63;16476 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 4050;6.0;1.25;1.05;7.88;13300 PassMark;;Base Tier Score  skala 1 -10;;;;;;;Benchmark_Reference;;;;;;;;
+NVIDIA GeForce RTX 3050 Ti;5.0;1.10;1.00;5.50;10164 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3050;5.5;1.10;1.00;6.05;10749 PassMark;;"Base_Tier_Score = normalize(PassMark_Score, max_score=21513)
+
+  Normalization Formula:
+  - RTX 4090 (21,513 PassMark) ? 10.0 (highest)
+  - RTX 4070 (18,161 PassMark) ? 8.5
+  - Intel Iris Xe (5,000 PassMark) ? 4.2
+  - UHD Graphics (4,500 PassMark) ? 2.1
+
+  Logic: Semakin tinggi PassMark score, semakin tinggi Base Tier Score.";;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3050 6GB;5.5;1.10;1.05;6.35;10749 PassMark;;;;;;;;;"PassMark Software adalah standard test untuk mengukur performa komponen komputer.     Analogi Sederhana:
+
+  - PassMark seperti TOEFL untuk processor/GPU
+  - Memberikan score numerik yang bisa dibandingkan
+  - Semakin tinggi score = semakin powerful performanya                                                                             Why We Use It
+
+  Untuk Project Kita:
+
+  - Evidence-based: Bukan asumsi pribadi
+  - Fair comparison: Intel vs AMD vs NVIDIA
+  - Academic credibility: Research yang valid";;;;;;;;
+NVIDIA GeForce RTX 2050;3.8;1.00;1.00;3.80;7712 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce GTX 1650;4.0;0.90;1.00;3.60;7869 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce GTX 1650 Ti;4.5;0.90;1.00;4.05;8500 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce GTX 1660 Ti;5.0;0.90;1.00;4.50;9000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 6650M XT;7.8;1.05;1.10;9.01;124487 3DMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 6600M;7.0;1.05;1.05;7.72;11000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 6500M;5.2;1.05;1.00;5.46;8000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 5500M;4.8;0.95;1.00;4.56;7000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX Vega 8;3.5;0.85;0.90;2.68;5000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX Vega 7;3.0;0.85;0.90;2.30;4500 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon Graphics;2.2;0.95;0.90;1.88;3500 PassMark;;;;;;;;;;;;;;;;;
+Intel Iris Xe Graphics;4.2;1.00;0.90;3.78;5000 PassMark;;;;;;;;;;;;;;;;;
+Intel Iris Xe Graphics 96EU;4.8;1.00;0.90;4.32;5500 PassMark;;;;;;;;;;;;;;;;;
+Intel UHD Graphics 630;2.1;0.85;0.90;1.61;4669 Geekbench;;Generation Multipier;;;;;;;;;;;;;;;
+Intel UHD Graphics 750;2.8;0.85;0.90;2.14;6000 PassMark;;;;;;;;;;;;;;;;;
+Intel UHD Graphics;2.5;0.85;0.90;1.91;5500 PassMark;;;;;;;;;;;;;;;;;
+Intel Integrated UHD;2.0;0.85;0.90;1.53;4500 PassMark;;"Generation_Multiplier = architecture_performance_gain
+
+  NVIDIA:
+  - RTX 40 Series: 1.25 (25% improvement over 30xx)
+  - RTX 30 Series: 1.10 (10% improvement over 20xx)
+  - RTX 20 Series: 1.00 (baseline Turing)
+  - GTX 16 Series: 0.90 (older architecture)
+
+  AMD:
+  - RX 6000 Series: 1.05 (RDNA 2 improvement)
+  - RX 5000 Series: 0.95 (older RDNA 1)
+
+  Logic: Architecture baru lebih efisien dan powerful.";;;;;;;;;;;;;;;
+Intel Integrated Iris Xe;4.5;1.00;0.90;4.05;5200 PassMark;;;;;;;;;;;;;;;;;
+Apple M1 Integrated GPU;6.3;1.00;0.90;5.67;19853 Geekbench Metal;;;;;;;;;;;;;;;;;
+Apple M2 Integrated GPU;7.2;1.10;0.90;7.13;25000 Geekbench Metal;;;;;;;;;;;;;;;;;
+Apple M2 Pro Integrated GPU;8.5;1.10;0.95;8.88;32000 Geekbench Metal;;;;;;;;;;;;;;;;;
+Apple M2 Max Integrated GPU;9.0;1.10;1.00;9.90;35000 Geekbench Metal;;;;;;;;;;;;;;;;;
+Apple M1 Integrated Graphics;6.3;1.00;0.90;5.67;19853 Geekbench Metal;;;;;;;;;;;;;;;;;
+ARM Mali-G78 MP14;4.0;1.00;0.90;3.60;8000 3DMark;;;;;;;;;;;;;;;;;
+ARM Mali-G77 MP11;3.8;0.95;0.90;3.25;7500 3DMark;;;;;;;;;;;;;;;;;
+ARM Mali-G68 MP4;3.2;0.90;0.90;2.59;6000 3DMark;;;;;;;;;;;;;;;;;
+ARM Mali-G57 MP2;2.8;0.85;0.90;2.14;5500 3DMark;;;;;;;;;;;;;;;;;
+ARM Mali G72 MP3;2.5;0.80;0.90;1.80;5000 3DMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3070 Ti;8.0;1.10;1.10;9.68;16000 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3070;7.5;1.10;1.10;9.08;15000 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3060;7.0;1.10;1.10;8.47;14000 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA GeForce RTX 3060 Ti;7.8;1.10;1.05;9.01;15500 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 6800M;8.2;1.05;1.10;9.47;17000 PassMark;;;;;;;;;;;;;;;;;
+AMD Radeon RX 6700M;7.5;1.05;1.10;8.66;15000 PassMark;;3. VRAM Factor (Memory Capacity Impact);;;;;;;;;;;;;;;
+NVIDIA Quadro T1200;4.5;1.00;1.00;4.50;7000 PassMark;;;;;;;;;;;;;;;;;
+NVIDIA Quadro T500;2.5;0.90;1.00;2.25;4000 PassMark;;;;;;;;;;;;;;;;;
+Intel Arc A370M;5.5;1.00;1.05;5.78;9000 PassMark;;;;;;;;;;;;;;;;;
+Intel Arc A770M;7.0;1.00;1.10;7.70;13000 PassMark;;"VRAM_Factor = vram_capacity_impact
+
+  VRAM Scaling:
+  - 16GB+: 1.20 (enthusiast workloads, 4K gaming)
+  - 8GB: 1.10 (gaming standard, good future-proofing)
+  - 6GB: 1.05 (mid-range standard)
+  - 4GB: 1.00 (entry-level baseline)
+  - Integrated: 0.90 (shared memory penalty)
+
+  Logic: More VRAM = better multitasking and future-proofing.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;4. Final Score Calculation;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;"
+  Final_Score = Base_Tier_Score × Generation_Multiplier × VRAM_Factor
+
+  Contoh: RTX 4060 (8GB)
+  - Base: 7.0
+  - Generation: 1.25 (RTX 40 series)
+  - VRAM: 1.10 (8GB)
+  - Final: 7.0 × 1.25 × 1.10 = 9.63";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;

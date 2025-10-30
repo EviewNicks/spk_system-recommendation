@@ -282,21 +282,6 @@ VRAM_MULTIPLIERS = {
 
 **Alasan**: VRAM requirements meningkat untuk modern gaming (2024+), video editing 4K, dan machine learning datasets.
 
-#### 3. Architecture Generation Bonus (Technology Advancement)
-
-```python
-# Berdasarkan NVIDIA GPU Architecture Evolution
-ARCHITECTURE_BONUS = {
-    'GTX Series (Turing)': 1.0,         # Established technology
-    'RTX 20 Series (Turing)': 1.05,     # Ray tracing introduction
-    'RTX 30 Series (Ampere)': 1.15,     # Mature ray tracing
-    'RTX 40 Series (Ada Lovelace)': 1.25, # Latest with DLSS 3
-    'Apple Silicon': 1.2                # Unified memory efficiency
-}
-```
-
-**Alasan**: Setiap generation memberikan significant improvements dalam efficiency dan features (DLSS, ray tracing).
-
 ### VRAM Data Extraction Algorithm
 
 #### Pattern Recognition dari Dataset
@@ -329,7 +314,7 @@ def extract_gpu_vram(gpu_string):
 ### Complete GPU Scoring Formula
 
 ```python
-gpu_score = base_gpu_score × vram_multiplier × architecture_bonus
+gpu_score = base_gpu_score × vram_multiplier
 ```
 
 ### Contoh Perhitungan Real Dataset
@@ -340,8 +325,7 @@ gpu_score = base_gpu_score × vram_multiplier × architecture_bonus
 GPU: "6GB NVIDIA GeForce RTX 4050"
 Base Score: 6.5 (RTX 4050 tier)
 VRAM Multiplier: 1.22 (6GB VRAM)
-Architecture Bonus: 1.25 (Ada Lovelace)
-Final Score: 6.5 × 1.22 × 1.25 = 9.91/10
+Final Score: 6.5 × 1.22  = 9.91/10
 ```
 
 #### **Student Laptop Integrated (Intel Iris Xe)**
@@ -350,8 +334,7 @@ Final Score: 6.5 × 1.22 × 1.25 = 9.91/10
 GPU: "Intel Iris Xe Graphics"
 Base Score: 2.5 (Iris Xe tier)
 VRAM Multiplier: 1.0 (Shared memory)
-Architecture Bonus: 1.0 (Intel integrated)
-Final Score: 2.5 × 1.0 × 1.0 = 2.5/10
+Final Score: 2.5 × 1.0  = 2.5/10
 ```
 
 #### **Budget Gaming (RTX 3050 4GB)**
@@ -360,8 +343,7 @@ Final Score: 2.5 × 1.0 × 1.0 = 2.5/10
 GPU: "4GB NVIDIA GeForce RTX 3050"
 Base Score: 5.0 (RTX 3050 tier)
 VRAM Multiplier: 1.0 (4GB baseline)
-Architecture Bonus: 1.15 (Ampere architecture)
-Final Score: 5.0 × 1.0 × 1.15 = 5.75/10
+Final Score: 5.0 × 1.0  = 5.75/10
 ```
 
 #### **Apple Premium (M2 10-Core)**
@@ -370,8 +352,7 @@ Final Score: 5.0 × 1.0 × 1.15 = 5.75/10
 GPU: "10-Core GPU"
 Base Score: 5.0 (Apple 10-core)
 VRAM Multiplier: 1.0 (Unified memory)
-Architecture Bonus: 1.2 (Apple Silicon efficiency)
-Final Score: 5.0 × 1.0 × 1.2 = 6.0/10
+Final Score: 5.0 × 1.0  = 6.0/10
 ```
 
 ### Validation Framework

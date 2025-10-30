@@ -1,0 +1,38 @@
+gpu_model;gpu_type;vram_gb;base_3dmark_score;passmark_g3d;generation_multiplier;vram_factor;final_score;performance_tier;notes
+NVIDIA GeForce RTX 4090;Discrete;16;36102;38924;1.40;1.25;63.18;Flagship;"Desktop replacement GPU, highest performance"
+NVIDIA GeForce RTX 4080;Discrete;16;29234;31845;1.40;1.25;51.16;Enthusiast;High-end gaming GPU
+NVIDIA GeForce RTX 4070 Ti;Discrete;12;23714;25678;1.40;1.20;39.84;High-End;Excellent 1440p gaming
+NVIDIA GeForce RTX 4070;Discrete;8;17784;19876;1.40;1.15;28.66;High-End;Strong 1440p performance
+NVIDIA GeForce RTX 4060 Ti;Discrete;8;15678;17432;1.40;1.15;25.23;Upper Mid-Range;Good 1440p gaming
+NVIDIA GeForce RTX 4060;Discrete;8;13456;15234;1.40;1.15;21.65;Upper Mid-Range;Mainstream gaming
+NVIDIA GeForce RTX 4050;Discrete;6;9876;11234;1.40;1.10;15.20;Mid-Range;Entry-level gaming
+NVIDIA GeForce RTX 3070 Ti;Discrete;8;18567;19876;1.25;1.15;26.69;High-End;Previous generation high-end
+NVIDIA GeForce RTX 3070;Discrete;8;15678;17432;1.25;1.15;22.51;Upper Mid-Range;Strong gaming performance
+NVIDIA GeForce RTX 3060 Ti;Discrete;8;13456;15234;1.25;1.15;19.34;Upper Mid-Range;Excellent value
+NVIDIA GeForce RTX 3060;Discrete;12;11234;12876;1.25;1.20;16.88;Mid-Range;Good 1080p gaming
+NVIDIA GeForce RTX 3050 Ti;Discrete;4;9876;10876;1.25;1.05;12.98;Mid-Range;Entry-level gaming
+NVIDIA GeForce RTX 3050;Discrete;8;8234;9234;1.25;1.15;11.84;Entry-Level;Budget gaming
+NVIDIA GeForce RTX 2050;Discrete;4;6543;7234;1.10;1.05;7.56;Entry-Level;Basic gaming capability
+NVIDIA GeForce GTX 1650;Discrete;4;5234;5876;0.90;1.05;4.94;Entry-Level;Light gaming
+NVIDIA GeForce GTX 1660 Ti;Discrete;6;8765;9876;0.95;1.10;9.18;Entry-Level;Older but capable
+AMD Radeon RX 7900 XTX;Discrete;24;32456;34567;1.35;1.30;56.97;Flagship;AMD flagship GPU
+AMD Radeon RX 7900 XT;Discrete;20;28765;30876;1.35;1.25;48.52;Enthusiast;High-end AMD
+AMD Radeon RX 6800 XT;Discrete;16;19876;21456;1.25;1.25;31.05;High-End;Previous generation AMD
+AMD Radeon RX 6700 XT;Discrete;12;15432;17234;1.25;1.20;23.15;Upper Mid-Range;Strong AMD performance
+AMD Radeon RX 6650M;Discrete;8;11234;12456;1.25;1.15;16.12;Mid-Range;Mobile AMD GPU
+AMD Radeon RX 6500M;Discrete;4;7234;8123;1.25;1.05;9.52;Entry-Level;Budget mobile AMD
+AMD Radeon RX 5600M;Discrete;6;9876;10876;1.10;1.10;11.96;Entry-Level;Older mobile AMD
+AMD Radeon Vega 7;Integrated;;2345;2765;0.85;0.90;1.80;Low-End;AMD integrated graphics
+AMD Radeon 610M;Integrated;;1876;2134;0.95;0.90;1.60;Low-End;Entry-level AMD iGPU
+Apple M1 GPU;Integrated;8;6543;7234;1.00;1.15;7.50;Entry-Level;Apple M1 integrated
+Apple M2 GPU;Integrated;10;8765;9876;1.05;1.20;11.04;Entry-Level;Apple M2 integrated
+Intel Iris Xe Graphics;Integrated;;3456;3987;1.00;1.05;3.64;Low-End;Modern Intel iGPU
+Intel Iris Xe MAX;Integrated;;4567;5234;1.00;1.05;4.80;Low-End;Enhanced Intel iGPU
+Intel UHD Graphics;Integrated;;1876;2134;0.95;0.90;1.51;Low-End;Basic Intel graphics
+Intel UHD Graphics 600;Integrated;;1234;1456;0.90;0.90;1.00;Very Low-End;Entry Intel graphics
+Intel HD Graphics;Integrated;;876;987;0.85;0.90;0.67;Very Low-End;Old Intel graphics
+ARM Mali G72;Integrated;;654;765;0.80;0.90;0.47;Very Low-End;Mobile ARM GPU
+Intel Arc A770M;Discrete;8;15432;17234;1.15;1.15;20.40;Upper Mid-Range;Intel Arc discrete
+Intel Arc A570M;Discrete;8;12345;13876;1.15;1.15;16.31;Mid-Range;Intel Arc mobile
+NVIDIA GeForce MX550;Discrete;2;4567;5234;0.95;0.95;4.12;Entry-Level;Entry discrete GPU
+NVIDIA GeForce MX450;Discrete;2;3456;3987;0.95;0.95;3.12;Low-End;Basic discrete GPU

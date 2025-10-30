@@ -1,0 +1,46 @@
+GPU_Model;Base_Tier_Score;Generation_Multiplier;VRAM_Factor;Final_Score;Benchmark_Reference;Performance_Category;Notes
+NVIDIA GeForce RTX 4090;10.0;1.25;1.20;15.00;21513 PassMark;Enthusiast;"Flagship gaming GPU, 24GB GDDR6X"
+NVIDIA GeForce RTX 4070;8.5;1.25;1.10;11.69;18161 PassMark;High-End;"High-end gaming, 12GB GDDR6X"
+NVIDIA GeForce RTX 4060;7.0;1.25;1.10;9.63;16476 PassMark;Upper-Mid;"Mainstream gaming, 8GB GDDR6"
+NVIDIA GeForce RTX 4050;6.0;1.25;1.05;7.88;13300 PassMark;Mid-Range;"Entry gaming, 6GB GDDR6"
+NVIDIA GeForce RTX 3050 Ti;5.0;1.10;1.00;5.50;10164 PassMark;Mid-Range;"Budget gaming, 4GB GDDR6"
+NVIDIA GeForce RTX 3050;5.5;1.10;1.00;6.05;10749 PassMark;Mid-Range;"Budget gaming, 4-8GB GDDR6"
+NVIDIA GeForce RTX 3050 6GB;5.5;1.10;1.05;6.35;10749 PassMark;Mid-Range;Budget gaming with extra VRAM
+NVIDIA GeForce RTX 2050;3.8;1.00;1.00;3.80;7712 PassMark;Entry;"Light gaming, 4GB GDDR6"
+NVIDIA GeForce GTX 1650;4.0;0.90;1.00;3.60;7869 PassMark;Entry;"Older gaming GPU, 4GB GDDR5"
+NVIDIA GeForce GTX 1650 Ti;4.5;0.90;1.00;4.05;8500 PassMark;Entry;Improved GTX 1650
+NVIDIA GeForce GTX 1660 Ti;5.0;0.90;1.00;4.50;9000 PassMark;Mid-Range;Older mid-range gaming
+AMD Radeon RX 6650M XT;7.8;1.05;1.10;9.01;124487 3DMark;Upper-Mid;"High-end mobile gaming, 8GB GDDR6"
+AMD Radeon RX 6600M;7.0;1.05;1.05;7.72;11000 PassMark;Mid-Range;"Mid-range mobile gaming, 8GB GDDR6"
+AMD Radeon RX 6500M;5.2;1.05;1.00;5.46;8000 PassMark;Entry;"Entry-level mobile gaming, 4GB GDDR6"
+AMD Radeon RX 5500M;4.8;0.95;1.00;4.56;7000 PassMark;Entry;Older entry-level mobile gaming
+AMD Radeon RX Vega 8;3.5;0.85;0.90;2.68;5000 PassMark;Entry;"Integrated graphics, 4GB shared"
+AMD Radeon RX Vega 7;3.0;0.85;0.90;2.30;4500 PassMark;Entry;Basic integrated graphics
+AMD Radeon Graphics;2.2;0.95;0.90;1.88;3500 PassMark;Entry;Basic AMD integrated
+Intel Iris Xe Graphics;4.2;1.00;0.90;3.78;5000 PassMark;Entry;Modern integrated graphics
+Intel Iris Xe Graphics 96EU;4.8;1.00;0.90;4.32;5500 PassMark;Entry;Higher-end Iris Xe
+Intel UHD Graphics 630;2.1;0.85;0.90;1.61;4669 Geekbench;Entry;Older integrated graphics
+Intel UHD Graphics 750;2.8;0.85;0.90;2.14;6000 PassMark;Entry;Improved UHD graphics
+Intel UHD Graphics;2.5;0.85;0.90;1.91;5500 PassMark;Entry;Standard UHD graphics
+Intel Integrated UHD;2.0;0.85;0.90;1.53;4500 PassMark;Entry;Basic integrated graphics
+Intel Integrated Iris Xe;4.5;1.00;0.90;4.05;5200 PassMark;Entry;Iris Xe integrated
+Apple M1 Integrated GPU;6.3;1.00;0.90;5.67;19853 Geekbench Metal;Mid-Range;Apple M1 8-core GPU
+Apple M2 Integrated GPU;7.2;1.10;0.90;7.13;25000 Geekbench Metal;Upper-Mid;Apple M2 improved GPU
+Apple M2 Pro Integrated GPU;8.5;1.10;0.95;8.88;32000 Geekbench Metal;High-End;Apple M2 Pro 19-core GPU
+Apple M2 Max Integrated GPU;9.0;1.10;1.00;9.90;35000 Geekbench Metal;High-End;Apple M2 Max 38-core GPU
+Apple M1 Integrated Graphics;6.3;1.00;0.90;5.67;19853 Geekbench Metal;Mid-Range;Duplicate M1 entry
+ARM Mali-G78 MP14;4.0;1.00;0.90;3.60;8000 3DMark;Entry;High-end mobile GPU
+ARM Mali-G77 MP11;3.8;0.95;0.90;3.25;7500 3DMark;Entry;Upper-mid mobile GPU
+ARM Mali-G68 MP4;3.2;0.90;0.90;2.59;6000 3DMark;Entry;Mid-range mobile GPU
+ARM Mali-G57 MP2;2.8;0.85;0.90;2.14;5500 3DMark;Entry;Entry-level mobile GPU
+ARM Mali G72 MP3;2.5;0.80;0.90;1.80;5000 3DMark;Entry;Older mobile GPU
+NVIDIA GeForce RTX 3070 Ti;8.0;1.10;1.10;9.68;16000 PassMark;High-End;"Previous gen high-end, 8GB GDDR6X"
+NVIDIA GeForce RTX 3070;7.5;1.10;1.10;9.08;15000 PassMark;High-End;"Previous gen high-end, 8GB GDDR6"
+NVIDIA GeForce RTX 3060;7.0;1.10;1.10;8.47;14000 PassMark;Upper-Mid;"Previous gen mainstream, 12GB GDDR6"
+NVIDIA GeForce RTX 3060 Ti;7.8;1.10;1.05;9.01;15500 PassMark;Upper-Mid;"Previous gen upper-mid, 8GB GDDR6"
+AMD Radeon RX 6800M;8.2;1.05;1.10;9.47;17000 PassMark;High-End;"Mobile high-end gaming, 12GB GDDR6"
+AMD Radeon RX 6700M;7.5;1.05;1.10;8.66;15000 PassMark;Upper-Mid;"Mobile upper-mid gaming, 10GB GDDR6"
+NVIDIA Quadro T1200;4.5;1.00;1.00;4.50;7000 PassMark;Entry;Professional entry GPU
+NVIDIA Quadro T500;2.5;0.90;1.00;2.25;4000 PassMark;Entry;Basic professional GPU
+Intel Arc A370M;5.5;1.00;1.05;5.78;9000 PassMark;Entry;Intel first discrete GPU
+Intel Arc A770M;7.0;1.00;1.10;7.70;13000 PassMark;Mid-Range;Intel mainstream discrete GPU
