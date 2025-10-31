@@ -3,8 +3,8 @@
     "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
     "ANTHROPIC_AUTH_TOKEN": "306a1c9fecd24006bf62c09b3bf14e3c.iwQLtEoZa2eVW4aG",
     "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.5-air",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-4.6",
-    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-4.5-air"
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-4.6"
+    // "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-4.5-air"
   },
   "permissions": {
     "deny": [
